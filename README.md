@@ -20,7 +20,7 @@ This addon adds a panel in the 3D Viewport. To use it, follow these steps:
 3. Click on the "Apply" button to generate the three-point lighting around your object.
 4. Now, you can customize the lights by adjusting them all at once or independently.
 
-How it works
+## How it works
 
 1. **Variable Definition:** The first lines define the variables `scene_size_x`, `scene_size_y`, `scene_size_z`, and `intensity` which represent the dimensions of the scene and the intensity of the light, respectively. These values are obtained from the properties of the current scene in Blender.
 
